@@ -42,7 +42,7 @@
 
 立即联系我们，免费领取试用版软件！  
 
-<img src="https://raw.githubusercontent.com/slalx/douyin-markting/main/images/IMG_4071.jpg" />
+<img src="https://raw.githubusercontent.com/slalx/douyin-markting/main/images/IMG_4071.JPG" />
 
 
 📩 **微信**：`zslslalx`
