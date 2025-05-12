@@ -31,14 +31,18 @@
 
 ### 账号管理
 
-![账号管理](https://github.com/slalx/xhs-marketing/raw/main/images/2ACE9D21-EF69-4B5E-ADE4-C8256CD9350C.png)
+<img src="https://raw.githubusercontent.com/slalx/douyin-marketing/main/images/2ACE9D21-EF69-4B5E-ADE4-C8256CD9350C.png" />
+
 
 ### 任务管理
-![任务管理](https://github.com/slalx/xhs-marketing/raw/main/images/67FAC551-1BDB-48BF-895F-47EB21838F56.png)
+
+<img src="https://raw.githubusercontent.com/slalx/douyin-marketing/main/images/67FAC551-1BDB-48BF-895F-47EB21838F56.png" />
 
 ## 免费试用
 
 立即联系我们，免费领取试用版软件！  
-![二维码](https://github.com/slalx/xhs-marketing/raw/main/images/IMG_3998.JPG)
+
+<img src="https://raw.githubusercontent.com/slalx/douyin-marketing/main/images/IMG_4071.png" />
+
 
 📩 **微信**：`zslslalx`
